@@ -4,7 +4,7 @@ import time
 
 # define the number of uav, usv,task, the minimum number of uav and usv in a single task
 uav_num = 60
-usv_num = 20
+usv_num = 30
 task_num = 8
 uav_min = 3
 usv_min = 1
